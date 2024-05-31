@@ -1,0 +1,5 @@
+packages:
+  - '.'
+  - '.eslint-plugin'
+  - 'build'
+  - '!node_modules/**'
