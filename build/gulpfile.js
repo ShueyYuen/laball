@@ -1,3 +1,2 @@
-const gulp = require("gulp");
-
-gulp.task("default", function () { });
+require('./gulpfile.compile');
+require('./gulpfile.dev');

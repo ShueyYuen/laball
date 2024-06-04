@@ -2,4 +2,5 @@ packages:
   - '.'
   - '.eslint-plugin'
   - 'build'
+  - 'core'
   - '!node_modules/**'
